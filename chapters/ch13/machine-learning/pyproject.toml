@@ -6,7 +6,7 @@ authors = ["Christian Adell <chadell@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pydantic = {version = "1.10.12", extras = ["dotenv"]}
+pydantic = {version = "1.10.13", extras = ["dotenv"]}
 fastapi = "0.99.1"
 uvicorn = "*"
 python-logging-loki = "*"
